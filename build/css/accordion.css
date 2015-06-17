@@ -1,0 +1,12 @@
+body {
+  background: #ffffff;
+}
+#wrapper {
+  max-width: 80%;
+  margin: 0 auto;
+}
+.accordion {
+  background: #ff5567;
+}
+
+/*# sourceMappingURL=maps/accordion.css.map */

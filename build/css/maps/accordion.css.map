@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.less"],"names":[],"mappings":"AAGA;EACC,mBAAA;;AAGD;EACC,cAAA;EACA,cAAA;;AAGD;EACC,mBAAA","file":"accordion.css","sourcesContent":["@white: #ffffff;\n@hot-pink: #ff5567;\n\nbody {\n\tbackground: @white;\n}\n\n#wrapper {\n\tmax-width: 80%;\n\tmargin: 0 auto;\n}\n\n.accordion {\n\tbackground: @hot-pink;\n}"],"sourceRoot":"/source/"}
